@@ -1,0 +1,19 @@
+{
+  "name": "gulp-crystal",
+  "version": "0.0.1",
+  "description": "gulp tools for crystal build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/youngjay/gulp-crystal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youngjay/gulp-crystal/issues"
+  },
+  "homepage": "https://github.com/youngjay/gulp-crystal"
+}
